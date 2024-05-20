@@ -2,6 +2,7 @@
 
 ## 1. Project Overview
 Develop a platform where users can manually add and track their job applications. The platform will have features for users to add detailed application information, update statuses, track interview dates, view analytics, register and login, and a landing page. Additionally, there will be a tool for creating and upgrading CVs using AI.
+![image](https://github.com/CareerTrail/.github/assets/15968471/b533e417-470c-4d0d-bb81-1ad3d2cb69f1)
 
 ## 2. Core Features
 1. **User Registration and Login**
